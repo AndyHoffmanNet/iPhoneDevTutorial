@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-	NSLog(@"Hello World");
+	NSLog(@"Hello World2");
 	
     return 0;
 }
